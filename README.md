@@ -1,2 +1,2 @@
-# matrix
+# Matrix Design System
 Design System
