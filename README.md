@@ -1,2 +1,1 @@
-# Matrix Design System
-Design System
+# Things Framework
